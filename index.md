@@ -1,7 +1,3 @@
-----------
-title: Bangumi Project
-----------
-
 ## Bangumi Project | 番组计划
 
 ### 关于本站
